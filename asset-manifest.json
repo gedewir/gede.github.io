@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "./static/css/main.733da61a.css",
-    "main.js": "./static/js/main.6da1f639.js",
-    "static/js/787.a4b45000.chunk.js": "./static/js/787.a4b45000.chunk.js",
-    "index.html": "./index.html",
-    "main.733da61a.css.map": "./static/css/main.733da61a.css.map",
-    "main.6da1f639.js.map": "./static/js/main.6da1f639.js.map",
-    "787.a4b45000.chunk.js.map": "./static/js/787.a4b45000.chunk.js.map"
+    "main.css": "/gede.github.io/static/css/main.733da61a.css",
+    "main.js": "/gede.github.io/static/js/main.e138422d.js",
+    "static/js/787.a4b45000.chunk.js": "/gede.github.io/static/js/787.a4b45000.chunk.js",
+    "index.html": "/gede.github.io/index.html",
+    "main.733da61a.css.map": "/gede.github.io/static/css/main.733da61a.css.map",
+    "main.e138422d.js.map": "/gede.github.io/static/js/main.e138422d.js.map",
+    "787.a4b45000.chunk.js.map": "/gede.github.io/static/js/787.a4b45000.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.733da61a.css",
-    "static/js/main.6da1f639.js"
+    "static/js/main.e138422d.js"
   ]
 }
